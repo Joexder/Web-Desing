@@ -1,2 +1,3 @@
 # Web-Desing
-proyects from Frontend Mentor
+proyect from Frontend Mentor
+desing a article view using html scss js
